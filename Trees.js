@@ -12,10 +12,10 @@ class Tree {
     }
     display(){
       var pos =this.body.position;
-      rectMode(CENTER);
+      imageMode(CENTER);
       fill(0);
-      rect(pos.x, pos.y, this.width, this.height);
+      image(pos.x, pos.y, this.width, this.height);
     }
   };
 
-  Radha Krishna today's episode new promo 2 April 2021 || Radha Krishna New Episode Today
+  
