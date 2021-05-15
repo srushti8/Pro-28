@@ -69,6 +69,7 @@ function draw() {
   mango9.display();
   mango10.display();
   sling.display();
+
   
   drawSprites();
  
@@ -90,6 +91,4 @@ function keyPressed() {
 	  launcherObject.attach(stone.body);
 	}
   }
-
-
 
